@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net10.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+
+		<ApplicationIcon>RianLogo.ico</ApplicationIcon>
+
+		<!-- EXE filename -->
+		<AssemblyName>RianMacro</AssemblyName>
+
+		<RootNamespace>Mouse_Macro</RootNamespace>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<!-- 64-bit Windows -->
+		<RuntimeIdentifier>win-x64</RuntimeIdentifier>
+		<PlatformTarget>x64</PlatformTarget>
+
+		<!-- Small EXE -->
+		<PublishSingleFile>true</PublishSingleFile>
+		<SelfContained>false</SelfContained>
+		<PublishReadyToRun>false</PublishReadyToRun>
+		<DebugType>none</DebugType>
+		<DebugSymbols>false</DebugSymbols>
+
+	</PropertyGroup>
+
+</Project>
