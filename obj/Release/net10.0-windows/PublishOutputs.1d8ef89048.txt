@@ -1,0 +1,5 @@
+C:\Users\Akyun\Desktop\AI code test\Macro EXE\Mouse Macro.exe
+C:\Users\Akyun\Desktop\AI code test\Macro EXE\Mouse Macro.dll
+C:\Users\Akyun\Desktop\AI code test\Macro EXE\Mouse Macro.deps.json
+C:\Users\Akyun\Desktop\AI code test\Macro EXE\Mouse Macro.runtimeconfig.json
+C:\Users\Akyun\Desktop\AI code test\Macro EXE\Mouse Macro.pdb

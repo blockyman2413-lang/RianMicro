@@ -1,0 +1,13 @@
+C:\Users\Akyun\source\repos\Mouse Macro\Mouse Macro\obj\Debug\net10.0-windows\Mouse Macro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akyun\source\repos\Mouse Macro\Mouse Macro\obj\Debug\net10.0-windows\Mouse Macro.AssemblyInfoInputs.cache
+C:\Users\Akyun\source\repos\Mouse Macro\Mouse Macro\obj\Debug\net10.0-windows\Mouse Macro.AssemblyInfo.cs
+C:\Users\Akyun\source\repos\Mouse Macro\Mouse Macro\obj\Debug\net10.0-windows\Mouse Macro.csproj.CoreCompileInputs.cache
+C:\Users\Akyun\source\repos\Mouse Macro\Mouse Macro\obj\Debug\net10.0-windows\Mouse Macro.genruntimeconfig.cache
+C:\Users\Akyun\source\repos\Mouse Macro\Mouse Macro\obj\Debug\net10.0-windows\Mouse Ma.CFA74614.Up2Date
+C:\Users\Akyun\source\repos\Mouse Macro\Mouse Macro\bin\Debug\net10.0-windows\RianMicro.exe
+C:\Users\Akyun\source\repos\Mouse Macro\Mouse Macro\bin\Debug\net10.0-windows\RianMicro.deps.json
+C:\Users\Akyun\source\repos\Mouse Macro\Mouse Macro\bin\Debug\net10.0-windows\RianMicro.runtimeconfig.json
+C:\Users\Akyun\source\repos\Mouse Macro\Mouse Macro\bin\Debug\net10.0-windows\RianMicro.dll
+C:\Users\Akyun\source\repos\Mouse Macro\Mouse Macro\obj\Debug\net10.0-windows\RianMicro.dll
+C:\Users\Akyun\source\repos\Mouse Macro\Mouse Macro\obj\Debug\net10.0-windows\refint\RianMicro.dll
+C:\Users\Akyun\source\repos\Mouse Macro\Mouse Macro\obj\Debug\net10.0-windows\ref\RianMicro.dll
